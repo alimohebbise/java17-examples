@@ -1,4 +1,4 @@
-package org.example;
+package org.alimohebbise.example;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package package1;
+package org.alimohebbise.example.example1;
 
 public class MainClass1 {
 
